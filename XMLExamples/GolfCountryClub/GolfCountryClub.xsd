@@ -23,7 +23,7 @@
         <element name="ProShop">
           <complexType>
             <sequence>
-              <element name="GolfClub" type="tns:GolfClubType" maxOccurs="unbounded" minOccurs="1"></element>
+              <element name="GolfClub2" type="tns:GolfClubType" maxOccurs="unbounded" minOccurs="1"></element>
               <element name="BoxOfBalls" maxOccurs="unbounded" minOccurs="1" type="tns:BoxOfBallsType"></element>
             </sequence>
           </complexType>
